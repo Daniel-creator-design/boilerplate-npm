@@ -9,6 +9,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git",
+	},
+	"author": Daniel,
+	"email_address": ococodaniel161@gmail.com,
+	"phone number": 0665628114,
+	"country of origin": South Africa
+				
+
 }
